@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++大作业之图书信息管理系统", "C++大作业之图书信息管理系统\C++大作业之图书信息管理系统.vcxproj", "{5E14D395-5E17-4F7E-83D0-846CC061E121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E14D395-5E17-4F7E-83D0-846CC061E121}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E14D395-5E17-4F7E-83D0-846CC061E121}.Debug|Win32.Build.0 = Debug|Win32
+		{5E14D395-5E17-4F7E-83D0-846CC061E121}.Release|Win32.ActiveCfg = Release|Win32
+		{5E14D395-5E17-4F7E-83D0-846CC061E121}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
