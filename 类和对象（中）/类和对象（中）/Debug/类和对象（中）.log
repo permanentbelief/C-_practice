@@ -1,0 +1,22 @@
+﻿生成启动时间为 2019/9/1 13:17:16。
+     1>项目“D:\Documents\Visual Studio 2013\Projects\八月的雨\类和对象（中）\类和对象（中）\类和对象（中）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\AE\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(37): error C2572: “Date::Date”: 重定义默认参数 : 参数 3
+                 d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(9) : 参见“Date::Date”的声明
+     1>d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(37): error C2572: “Date::Date”: 重定义默认参数 : 参数 2
+                 d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(9) : 参见“Date::Date”的声明
+     1>d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(37): error C2572: “Date::Date”: 重定义默认参数 : 参数 1
+                 d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(9) : 参见“Date::Date”的声明
+     1>d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(94): warning C4551: 缺少参数列表的函数调用
+     1>d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(140): error C2143: 语法错误 : 缺少“;”(在“--”的前面)
+     1>d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(140): error C2761: “{ctor}”: 不允许成员函数重新声明
+     1>d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(140): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(140): error C2803: “operator --”必须至少有一个类类型的形参
+     1>d:\documents\visual studio 2013\projects\八月的雨\类和对象（中）\类和对象（中）\test.cpp(141): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>已完成生成项目“D:\Documents\Visual Studio 2013\Projects\八月的雨\类和对象（中）\类和对象（中）\类和对象（中）.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.36
